@@ -1,0 +1,13 @@
+# Setup filesystem
+.cph
+tasks.json
+.catalyst
+.clang-format
+
+# Specific Files
+algo
+.vscode
+
+# Important snippet for the programming
+snippet.h
+cp.h
